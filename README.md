@@ -16,3 +16,4 @@ Added jewlery screw eye screws to eyeball
 Used a lego ball joint to hold eyeball center in place / provide pivot strength
 30mm Doll Eye (hollow, half-sphere)
 
+Project uses PlatformIO vscode extension for ease of programming device / managing boards but not required
